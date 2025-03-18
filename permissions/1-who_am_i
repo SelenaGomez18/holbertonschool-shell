@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "El nombre de usuario efectivo es: $(whoami)"
