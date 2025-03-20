@@ -1,0 +1,1 @@
+add a script using each of the shell permissins commands, putting each of them into practice
