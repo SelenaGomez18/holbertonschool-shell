@@ -1,0 +1,1 @@
+In this directory the redirect commands will be implemented in shell / bash.
