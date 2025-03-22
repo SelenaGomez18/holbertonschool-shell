@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -n1 -type d -print0 | xargs -0 | wc -l
+find . n1 -type d -print | xargs -0 | wc -l
