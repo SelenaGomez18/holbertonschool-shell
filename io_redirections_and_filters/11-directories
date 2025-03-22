@@ -1,2 +1,2 @@
 #!/bin/bash
-num_directories=$(find . -type d -not -path . -not -path .. -print0 | xargs -0 | wc -l)
+find . -n1 -type d -print0 | xargs -0 | wc -l
