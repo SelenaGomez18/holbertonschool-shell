@@ -1,0 +1,1 @@
+In this directory we will put into practice with scripts, creation of aliases and expansion commands. Shell, init files, variables and expansions
