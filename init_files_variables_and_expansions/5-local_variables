@@ -1,0 +1,2 @@
+#!/bin/bash
+echo printenv | sort; set | grep '^[_A-Za-z0-9]\+=' | sort; declare -F | sort; declare -f | sort
