@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST="Escuela" echo "La variable BEST tiene el valor: $BEST"
+BEST="School" echo "La variable BEST tiene el valor: $BEST"
