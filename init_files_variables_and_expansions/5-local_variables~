@@ -1,2 +1,0 @@
-#!/bin/bash
-file $(ls /usr/bin* | grep bin/zip)
